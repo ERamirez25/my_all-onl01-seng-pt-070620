@@ -11,11 +11,5 @@ end
 
 
 
-def my_all?
-  i = 0
-  while i > 3
-  yield(1)
-  i = 0 + 1 
- end
 
-end 
+
