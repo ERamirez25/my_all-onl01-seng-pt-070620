@@ -8,7 +8,7 @@ def my_all?(collection)
    i = i + 1
  end 
 
-if 
+if block_return_values.include? 
 end
 
 
